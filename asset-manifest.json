@@ -1,0 +1,13 @@
+{
+  "main.css": "/testFunc/static/css/main.d8398878.chunk.css",
+  "main.js": "/testFunc/static/js/main.d125b667.chunk.js",
+  "main.js.map": "/testFunc/static/js/main.d125b667.chunk.js.map",
+  "runtime~main.js": "/testFunc/static/js/runtime~main.153cc0a4.js",
+  "runtime~main.js.map": "/testFunc/static/js/runtime~main.153cc0a4.js.map",
+  "static/js/2.04d6c229.chunk.js": "/testFunc/static/js/2.04d6c229.chunk.js",
+  "static/js/2.04d6c229.chunk.js.map": "/testFunc/static/js/2.04d6c229.chunk.js.map",
+  "index.html": "/testFunc/index.html",
+  "precache-manifest.cb9cede21b73b76cce5c8d436dd581fa.js": "/testFunc/precache-manifest.cb9cede21b73b76cce5c8d436dd581fa.js",
+  "service-worker.js": "/testFunc/service-worker.js",
+  "static/css/main.d8398878.chunk.css.map": "/testFunc/static/css/main.d8398878.chunk.css.map"
+}
